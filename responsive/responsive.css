@@ -1,0 +1,211 @@
+@media(max-width:1400px){
+    .mid-content {
+        
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+}
+
+@media (max-width:1050px) {
+    .primary-menu ul li a {
+        display: block;
+        padding: 0 9px;
+        font-size: 14px;
+        line-height: 60px;
+    }
+    .logo img {
+        height: 43px;
+        
+        margin-right: 9px;
+        margin-top: 5px;
+    }
+    .logo span {
+        
+        margin-top: 13px;
+        font-size: 22px;
+       
+    }
+    .section-title h1 {
+        font-size: 40px;
+        
+    }
+}
+
+.primary-menu span{
+    display: none;
+}
+
+@media (max-width:992px) {
+    .header-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    
+    .logo img {
+        height: 60px;
+        float: inherit;
+        margin-right: 10px;
+        
+    }
+    .logo span {
+        font-size: 20px;
+        position: relative;
+        top: -22px;
+    }
+    .header-menu{
+        width: 100%;
+    }
+    .header-button{
+        width: 200px;
+        text-align: right;
+        position: absolute;
+        right: 15px;
+        top: 70px;
+    }
+    .primary-menu span{
+        font-size: 40px;
+        color: lawngreen;
+        cursor: pointer;
+        display: block;
+    }
+    .primary-menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+}
+
+
+
+@media(max-width:768px) {
+    .banner-content h3 {
+        font-size: 21px;
+        font-weight: 400;
+    }
+    .banner-content h2 {
+        font-size: 41px;
+        margin: 30px 0;
+    }
+    .default-btn {
+        
+        padding: 10px 6px;
+        
+    }
+    .video-content-right h3 {
+        font-size: 20px;
+        
+    }
+    .video-content-right p {
+        font-size: 15px;
+        
+    }
+    .section-title h1 {
+        font-size: 31px;
+    }
+    .s-content h3 {
+        font-size: 15px;
+        font-weight: 531;
+    
+    }
+    .s-content p {
+        color: #0d0d0d;
+        font-size: 11px;
+    }
+    .section-title h2 {
+        font-size: 32px;
+        font-weight: 507;
+        
+    }
+    .section-title p {
+        color: #4d4343;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .p-heading h4 {
+        font-size: 18px;
+        
+    }
+    .p-heading h1 {
+       
+        font-size: 21px;
+    }
+    .p-heading h5 {
+       
+        font-size: 16px;
+        
+    }
+    .p-heading p {
+        font-size: 11px;
+       
+    }
+    .p-content ul li {
+        margin: 9px 0;
+        color: #201e1e;
+        font-size: 11px;
+    }
+    .p-content ul li span {
+        display: inline-block;
+        font-size: 18px;
+        color: #6278df;
+        width: 24px;
+    }
+    .default-btn {
+        font-size: 14px;
+       
+    }
+    .team-section .section-title h2 {
+        font-size: 29px;
+    }
+    .section-title.newslatter-title h2 {
+        margin-top: 12px;
+        font-size: 33px;
+    }
+    .default-input {
+        padding: 12px 11px;
+        font-size: 15px;
+       
+    }
+    .submit-btn {
+       
+        font-size: 13px;
+        padding: 11px 43px;
+       
+    }
+    .b-hading h2 {
+        font-size: 38px;
+        
+    }
+    .bt-content p {
+        
+        font-size: 14px;
+        
+    }
+    .blog-post-content h3 {
+        font-size: 21px;
+        margin-bottom: 14px;
+       
+    }
+    .blog-post-content p {
+        
+        font-size: 12px;
+        
+    }
+    .section-title.newslatter-title h2 {
+       
+        font-size: 26px;
+    }
+    .t-content p {
+        
+        font-size: 13px;
+      
+    }
+    .content-right-form p {
+        font-size: 15px;
+       
+    }
+    .footer p {
+        font-size: 15px;
+    }
+}
